@@ -1,0 +1,16 @@
+url_padrao: 'http://srvcrmhom01:5555/CRM/'
+# user: 'nathan.gomes@snd.com.br'
+# senha: '654321'
+
+cliente: '230064'
+nomecliente: '[230064] MG - LAVRAS - JM INFORMATICA LTDA - ME'
+tipooperacao: '[1] VENDAS'
+condpagamento: '28'
+topico: 'teste'
+tipovenda: 'Comercialização'
+condiFrete: 'CIF'
+apelido: "CAMERA IP"
+#descrição: "A320M-HD AM4 DDR4"
+descrição: "APRESENTADOR SEM FIO R400 - LOGITECH"
+
+

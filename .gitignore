@@ -1,0 +1,6 @@
+Gemfile.lock
+reports/relatorio*.html
+reports/screenshots/test_passou/*.png
+reports/screenshots/test_falhou/*.png
+reports/relatorio/*.json
+

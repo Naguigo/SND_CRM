@@ -1,0 +1,17 @@
+before_script:
+  - chmod +x alpine.sh
+  - ./alpine.sh
+  - gem install bundler --no-document
+
+image: ruby:alpine
+
+test: 
+  stage: test
+  script:
+    - bundle install
+    - bundle exec cucumber --t @regressao
+  artifacts:
+    when: always
+    paths:
+      - reports/relatorio.html  
+      - reports/screenshots*

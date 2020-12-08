@@ -1,0 +1,8 @@
+url_padrao: 'https://www.snd.com.br'
+user: 'NATHAN.GOMES@SND.COM.BR'
+senha: '123456'
+produto1: 'SAMSUNG BUSINESS TV 65" 4K'
+id1: 'div[data-productid="146081"]'
+produto2: 'MOUSE OPTICO SEM FIO M280 CINZA LOGITECH'
+id2: 'div[data-productid="82808"]'
+minha conta: 'QA AUTOMAÇÃO'
